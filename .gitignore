@@ -29,3 +29,6 @@ go.work
 #aws lambda build
 bootstrap
 myFunction.zip
+
+#environment
+.env
